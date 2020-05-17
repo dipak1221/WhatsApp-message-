@@ -1,0 +1,19 @@
+27/11/19, 7:41 pm - You created group "Vacation time😀😀🥳🥳"
+28/11/19, 10:06 am - Dipak Gautam: Tungarashware chale ?
+hello 
+how are 
+you
+28/11/19, 10:07 am - Rishi Vcet: Parth Kya bolta hai
+28/11/19, 10:08 am - Dipak Gautam: Maico kaya pata
+28/11/19, 10:08 am - Dipak Gautam: 🤣🤣
+28/11/19, 10:08 am - Rishi Vcet: Ha ruk na mc
+28/11/19, 10:08 am - Rishi Vcet: Bolega vo
+28/11/19, 10:08 am - F Parth Vcet: Chalega
+15/05/20, 9:59 am - Dipak Gautam: for i in range(int(input())):
+    n=int(input())
+    x=(n-1)/2
+    ans=x*(x+1)*8*(2*x+1)/6
+    print(int(ans))
+
+
+This is not my soln  try to explore and understand formula
