@@ -15,6 +15,7 @@ class demoregex {
             BufferedReader br = new BufferedReader(fr); // creates a buffering character input stream
             String line;
             Pattern p = Pattern.compile("\\d\\d.\\d\\d.\\d\\d,\\s\\d\\d?:\\d\\d\\s(p|a)m\\s-\\sDipak\\sGautam:.+");
+//             Pattern p = Pattern.compile("\\d\\d.\\d\\d.\\d\\d,\\s\\d\\d?:\\d\\d\\s(p|a)m\\s-\\s[Name of that person which appers in you chat if there is space in between  put \\s ]:.+");
 
             Pattern p1 = Pattern.compile("\\d\\d.\\d\\d.\\d\\d,\\s\\d\\d?:\\d\\d\\s(p|a)m\\s-\\s[^Dipak]");
             line = br.readLine();
